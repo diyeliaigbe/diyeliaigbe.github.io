@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Welcome to my web page. My name is Austin Aigbe. I love technology and literature.
+My name is Austin Aigbe. I have a strong interest in technology (to solve problems) and literature (to share knowledge and ideas).
