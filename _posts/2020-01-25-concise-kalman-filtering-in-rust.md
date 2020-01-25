@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Implementing a Kalman Filter in Rust"
-keywords: "localization robotics AI"
+title: "Concise Kalman Filtering in Rust"
 ---
 
 ## Introduction
 
+## Practical Application / Use Cases
 
 ## Performance
 
