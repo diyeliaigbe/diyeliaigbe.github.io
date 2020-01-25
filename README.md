@@ -1,4 +1,4 @@
-My website based on the thinkspace theme.
+My web page. Based on the thinkspace theme.
 
 ## License
 
