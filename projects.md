@@ -6,4 +6,4 @@ permalink: /projects/
 
 ## Projects
 - ngr
-- Self Flying Tricycle
+- Self-flying tricycle
