@@ -10,5 +10,6 @@ keywords: "localization robotics AI"
 ## Performance
 
 
-## References
-Probabilistic Robotics, MIT Press, Sebastian Thrun, Wolfram Burgard and Dieter Fox, [Probabilistic Robotics](http://probabilistic-robotics.org/)
+## Reference
+
+*Probabilistic Robotics*, *MIT Press*, Sebastian Thrun, Wolfram Burgard and Dieter Fox, [Probabilistic Robotics](http://probabilistic-robotics.org/)
