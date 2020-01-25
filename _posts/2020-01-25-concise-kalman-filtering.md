@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Concise Kalman Filtering in Rust"
+title: "Concise Kalman Filtering"
 ---
 
 ## Introduction
 
 ## Practical Application / Use Cases
 
-## Performance
+### Algorithm
 
+## Implementation
+
+## Performance
 
 ## Reference
 
