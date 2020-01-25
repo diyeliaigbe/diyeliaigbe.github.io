@@ -6,4 +6,4 @@ permalink: /projects/
 
 
 - ngr
-- Self-flying tricycle
+- Self-flying tricycle: A solution to the transportation challenge in Lagos
