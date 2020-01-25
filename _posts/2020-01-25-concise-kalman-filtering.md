@@ -3,16 +3,16 @@ layout: post
 title: "Concise Kalman Filtering"
 ---
 
-## Introduction
+### Introduction
 
-## Practical Application / Use Cases
+### Practical Application / Use Cases
 
 ### Algorithm
 
-## Implementation
+### Implementation
 
-## Performance
+### Performance
 
-## Reference
+### Reference
 
 *Probabilistic Robotics*, *MIT Press*, Sebastian Thrun, Wolfram Burgard and Dieter Fox, [Probabilistic Robotics](http://probabilistic-robotics.org/)
