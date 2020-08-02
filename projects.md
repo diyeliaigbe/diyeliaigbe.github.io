@@ -5,5 +5,5 @@ permalink: /projects/
 ---
 
 
-- ngr
-- Self-flying tricycle: A solution to the transportation challenge in Lagos
+- NGR - New Generation Radio experiment
+- NGC - New Generation EPC/5G/6G core network experiment
