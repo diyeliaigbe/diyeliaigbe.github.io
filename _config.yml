@@ -1,9 +1,9 @@
 # Site settings
-title_left    : "Austin"
+title_left    : "Diyeli"
 title_right   : " Aigbe" # default: ""
 description   : "Web page"
-keywords      : "Blog, Research, Technology, Humanity"
-url           : https://eshikafe.github.io # site url
+keywords      : "Blog, Research, Criminology, Psychology"
+url           : https://diyeliaigbe.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Austin Aigbe"
+  name     : "Diyeli Aigbe"
 
 plugins:
   - jekyll-sitemap
@@ -39,7 +39,7 @@ plugins:
 navbar:
   - slug : about
     title: About
-  - slug : projects
-    title: Projects
+  - slug : publications
+    title: Publications
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script", "vendor"]
