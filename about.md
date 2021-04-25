@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-My name is Austin Aigbe. I have a strong interest in Technology Management (to solve problems for human advantage) and Literature (to share knowledge and ideas).
+I am an expert in Criminology and Victimology. I analyze behaviour and psycho-analyze crime to gain better understanding of the criminal's mind. I have expertise in profiling and assessing personality. I also specialize in handwriting analysis - I can assess people by their handwriting - it reflects their emotional stability. 
