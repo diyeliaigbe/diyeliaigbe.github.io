@@ -8,8 +8,8 @@ permalink: /publications/
 
 ## Papers
 <hr>
-1. A Quantitative Insight into Oil Spill Conflict in the Niger-Delta Region.
-2. Illicit Drug Addiction and Employee Job Performance in the Hospitality Industry in Calabar.
+1. A Quantitative Insight into Oil Spill Conflict in the Niger-Delta Region.<br>
+2. Illicit Drug Addiction and Employee Job Performance in the Hospitality Industry in Calabar.<br>
 
 ## Media
 <hr>
