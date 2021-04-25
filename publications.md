@@ -10,7 +10,6 @@ permalink: /publications/
 <hr>
 1. Etta, O. E., & Aigbe, D. S. (2020). A Qualitative Insight into Oil Spill Conflicts in the Niger-Delta Region.<br> 
    ESUT JOURNAL OF SOCIAL SCIENCES, 5(2). Retrieved from [https://esutjss.com/index.php/ESUTJSS/article/view/44](https://esutjss.com/index.php/ESUTJSS/article/view/44)<br>
-   
 2. Illicit Drug Addiction and Employee Job Performance in the Hospitality Industry in Calabar.<br>
 
 ## Media
