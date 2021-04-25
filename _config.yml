@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Diyeli"
 title_right   : " Aigbe" # default: ""
-description   : "Web page"
+description   : "Security Expert, Consultant and Analyst"
 keywords      : "Blog, Research, Criminology, Psychology"
 url           : https://diyeliaigbe.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
